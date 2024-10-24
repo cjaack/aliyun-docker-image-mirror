@@ -1,4 +1,2 @@
-halohub/halo:2.19
-openproject/openproject:14
-kylehuff/openvpn
+kylemanna/openvpn:2.4
 bytemark/webdav
